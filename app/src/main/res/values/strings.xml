@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewWidgetDemo</string>
+    <string name="detail">DetailActivity</string>
+
+    <!-- menu item -->
+    <string name="action_chinese_only">仅中文</string>
+    <string name="action_english_only">仅英文</string>
+    <string name="action_ch_en_mix">中英混合</string>
+
+    <!-- navigation menu item -->
+    <string name="navigation_home">文章首页</string>
+    <string name="navigation_collection">我的收藏</string>
+    <string name="navigation_setting">设置</string>
+    <string name="test_text">测试文本</string>
+</resources>

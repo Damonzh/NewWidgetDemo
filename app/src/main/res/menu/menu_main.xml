@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.damon.newwidgetdemo.MainActivity">
+    <item
+        android:id="@+id/action_chinese_only"
+        android:orderInCategory="100"
+        android:title="@string/action_chinese_only"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_action_english_only"
+        android:title="@string/action_english_only"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_ch_en_mix"
+        android:title="@string/action_ch_en_mix"
+        app:showAsAction="never" />
+</menu>
