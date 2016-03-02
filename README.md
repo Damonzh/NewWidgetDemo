@@ -4,4 +4,4 @@ CollapsingToolbarLayout、FloatingActionButton、NavigationView、DrawerLayout�
 这里只是简单的用法，更加复杂或者高深的用法还需要在实际使用中慢慢去探索。
 
 # 效果图
-![](https://github.com/Damonzh/NewWidgetDemo/tree/master/screenshot/screenshot.gif)
+![](https://github.com/Damonzh/NewWidgetDemo/blob/master/screenshot/screenshot.gif)
